@@ -1,7 +1,4 @@
-use sysfs_gpio;
-use sysfs_gpio::{Direction, Pin};
-use std::thread::sleep;
-use std::time::Duration;
+
 
 // Copyright 2015, Paul Osborne <osbpau@gmail.com>
 //
