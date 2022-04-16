@@ -10,4 +10,3 @@ while True:
     sleep(1)
     led.off()
     print('Distance: ', sensor.distance * 100)
-    sleep(1)
